@@ -24,7 +24,7 @@ SECRET_KEY = ')mfghlqz2yy-10+)ka1d=v5!6#rw7&vcc&5_nn@9$7irp&8p9^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vascular-possum-l0mwnjyjl38cxf9m23kb563s.herokudns.com']
 
 
 # Application definition
